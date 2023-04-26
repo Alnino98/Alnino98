@@ -37,4 +37,7 @@ Skills: PhP / C#/ JS / HTML / CSS/SQL
 
 ![Profile views](https://gpvc.arturio.dev/Alnino98)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alnino98&theme=dark&show_icons=true)
+![Profile views](https://gpvc.arturio.dev/Alnino98)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alnino98&theme=tokyonight&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/Alnino98/github-readme-stats)
