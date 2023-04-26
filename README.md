@@ -2,31 +2,8 @@
 #### I am Web Full Stack Developer
 ![I am Web Full Stack Developer](https://habibiealnino.files.wordpress.com/2020/03/cropped-logo-1-1.png)
 
-import (
-    "fmt"
-    "github.com/Alnino98/Alnino98"
-)
+your code Oke ?
 
-type Github struct {
-    username string
-    contacts map[string]string
-    alises   []string
-    location string
-    age      string
-    occupation string
-    operating_system string
-}
-
-func (g *Github) Init() {
-    g.username = "Alnino98"
-    g.contacts = map[string]string{
-        "Telegram": "Whatsnameme?",
-    }
-    g.alises = []string{"namdevel", "HEUSC"}
-    g.location = "localhost, Indonesia"
-    g.age = "Undefined"
-    g.operating_system = "Windows, Linux"
-}
 
 Skills: PhP / C#/ JS / HTML / CSS/SQL
 
